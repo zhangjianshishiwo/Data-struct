@@ -1,0 +1,22 @@
+﻿  test.cpp
+C:\Users\张警赛\Desktop\编程\data struct 2-2\head.h(12,1): warning C4005: “OVERFLOW”: 宏重定义
+  (编译源文件“test.cpp”)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(975,1):
+  参见“OVERFLOW”的前一个定义
+  
+C:\Users\张警赛\Desktop\编程\data struct 2-2\test.cpp(23,1): warning C4326: “main”的返回类型应为“int”而非“void”
+C:\Users\张警赛\Desktop\编程\data struct 2-2\test.cpp(29,12): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“ElemType *”
+C:\Users\张警赛\Desktop\编程\data struct 2-2\test.cpp(29,12): warning C4313: "printf": 格式字符串中的 "%u" 与类型为 "ElemType *" 的参数 1 冲突
+C:\Users\张警赛\Desktop\编程\data struct 2-2\test.cpp(36,12): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“ElemType *”
+C:\Users\张警赛\Desktop\编程\data struct 2-2\test.cpp(36,12): warning C4313: "printf": 格式字符串中的 "%u" 与类型为 "ElemType *" 的参数 1 冲突
+C:\Users\张警赛\Desktop\编程\data struct 2-2\test.cpp(40,12): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“ElemType *”
+C:\Users\张警赛\Desktop\编程\data struct 2-2\test.cpp(40,12): warning C4313: "printf": 格式字符串中的 "%u" 与类型为 "ElemType *" 的参数 1 冲突
+C:\Users\张警赛\Desktop\编程\data struct 2-2\test.cpp(49,12): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“ElemType *”
+C:\Users\张警赛\Desktop\编程\data struct 2-2\test.cpp(49,12): warning C4313: "printf": 格式字符串中的 "%u" 与类型为 "ElemType *" 的参数 1 冲突
+C:\Users\张警赛\Desktop\编程\data struct 2-2\test.cpp(55,12): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“ElemType *”
+C:\Users\张警赛\Desktop\编程\data struct 2-2\test.cpp(55,12): warning C4313: "printf": 格式字符串中的 "%u" 与类型为 "ElemType *" 的参数 1 冲突
+C:\Users\张警赛\Desktop\编程\data struct 2-2\test.cpp(99,12): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“ElemType *”
+C:\Users\张警赛\Desktop\编程\data struct 2-2\test.cpp(99,12): warning C4313: "printf": 格式字符串中的 "%u" 与类型为 "ElemType *" 的参数 1 冲突
+C:\Users\张警赛\Desktop\编程\data struct 2-2\test.cpp(115,12): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“ElemType *”
+C:\Users\张警赛\Desktop\编程\data struct 2-2\test.cpp(115,12): warning C4313: "printf": 格式字符串中的 "%u" 与类型为 "ElemType *" 的参数 1 冲突
+  data struct 2-2.vcxproj -> C:\Users\张警赛\Desktop\编程\data struct 2-2\x64\Debug\data struct 2-2.exe
